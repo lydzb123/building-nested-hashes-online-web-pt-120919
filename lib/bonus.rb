@@ -21,6 +21,7 @@ def bonus
   }
 
   epic_tragedy[hero:][status:] = "dead"
+  epic_tragedy[capulet:][hero:][status:] = "dead"
 
 
 
